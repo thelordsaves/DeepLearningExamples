@@ -205,9 +205,9 @@ This repository contains a Dockerfile that extends the PyTorch NGC container and
 -   [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker)
 -   [PyTorch 21.11-py3 NGC container or later](https://ngc.nvidia.com/registry/nvidia-pytorch)
 -   Supported GPUs:
-- [NVIDIA Volta architecture](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/)
-- [NVIDIA Turing architecture](https://www.nvidia.com/en-us/geforce/turing/)
-- [NVIDIA Ampere architecture](https://www.nvidia.com/en-us/data-center/nvidia-ampere-gpu-architecture/)
+  * [NVIDIA Volta architecture](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/)
+  * [NVIDIA Turing architecture](https://www.nvidia.com/en-us/geforce/turing/)
+  * [NVIDIA Ampere architecture](https://www.nvidia.com/en-us/data-center/nvidia-ampere-gpu-architecture/)
  
 For more information about how to get started with NGC containers, refer to the following sections from the NVIDIA GPU Cloud Documentation and the Deep Learning Documentation:
 -   [Getting Started Using NVIDIA GPU Cloud](https://docs.nvidia.com/ngc/ngc-getting-started-guide/index.html)
